@@ -1,0 +1,6 @@
+{
+  "name": "NovaCart Intelligence",
+  "description": "Multi-provider AI e-commerce product research desk built for the Indian market (NOVACART).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
